@@ -1,1 +1,0 @@
-web: gunicorn text_formatter.wsgi --log-file -
